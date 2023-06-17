@@ -1,4 +1,6 @@
 # SYNAPSE
+![WhatsApp Image 2023-06-06 at 19 04 39](https://github.com/IamOm775/synapse/assets/95044230/6c1de8c5-885d-4dd0-b0a6-862aa22088b7)
+
 
 Welcome to Synapse, where we strive to bring your ideas to life through cutting-edge technology solutions. Our team of skilled professionals specializes in web development, mobile development, and UI/UX design.
 
@@ -23,7 +25,7 @@ User experience is at the core of our design philosophy. Our skilled UI/UX desig
 
 ## Get in Touch
 
-If you're ready to take your digital presence to the next level or have any questions, feel free to contact us at [info@exampleagency.com](mailto:info@exampleagency.com). We look forward to working with you!
+If you're ready to take your digital presence to the next level or have any questions, feel free to contact us at [info@exampleagency.com](mailto:mailsynapse@gmail.com). We look forward to working with you!
 
 
 
